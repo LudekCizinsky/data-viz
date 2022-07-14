@@ -1,5 +1,11 @@
 ## About
-Repo to store my notes and assignments from the course Data Visualisation and Data-driven Decision Making (Spring 2022).
+In this repository, you can find my course work for the subject **Data Visualisation and Data-driven Decision Making** taken at [IT University of Copenhagen](https://www.itu.dk/). Here is a quick overview:
 
-## Notes
-I am using [Notion](https://www.notion.so/product) for my [notes](https://ludekcizinsky.notion.site/3a708e9a3a54482faa64bfbbd62ec4de?v=d109c4c46a114c7596dca9727ea35d5c).
+- [Exercise 1](coursework/01): interviewing police brutality dataset
+- [Exercise 2](coursework/02): interviewing Trump's tweets dataset
+- [Exercise 4](coursework/04): visualizing percentage of seats held by women in National Parliaments
+- [Exercise 6](coursework/06): getting to know tableau
+- [Exercise 7](coursework/07): visualizing sustainability in Denmark
+- [project](coursework/project): final project for the course
+
+It was mandatory to complete and get approved at least 5 exercises and then submit the final project.
